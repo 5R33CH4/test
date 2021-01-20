@@ -1,11 +1,5 @@
-ONOFF
-=====
+# UNDERRUN - A JS13k GAME
 
-A game created for js13kGames 2008
+My entry for the 2018 [js13k](https://js13kgames.com/) competition.
 
-Navigate through 25 brain-teasing levels in this fast-paced, hand-crafted platformer. You'll dodge spikes, jump over pits, and toggle between dimensions.
-
-- Create and share your own levels
-- Gamepad support (your mileage may vary)!
-- Custom game engine and physics
-- Custom design and music/sfx
+Play here: https://phoboslab.org/underrun/
