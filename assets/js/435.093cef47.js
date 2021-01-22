@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[435],{"5NIk":function(n,a){!function(n){var a=n.util.clone(n.languages.typescript);n.languages.tsx=n.languages.extend("jsx",a);var e=n.languages.tsx.tag;e.pattern=RegExp("(^|[^\\w$]|(?=</))(?:"+e.pattern.source+")",e.pattern.flags),e.lookbehind=!0}(Prism)}}]);
